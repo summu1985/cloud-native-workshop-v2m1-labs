@@ -18,7 +18,7 @@ import java.util.logging.Logger;
  * Created by tqvarnst on 2017-04-04.
  */
 @Singleton
-//@Startup
+@Startup
 @TransactionManagement(TransactionManagementType.BEAN)
 public class DataBaseMigrationStartup {
 
