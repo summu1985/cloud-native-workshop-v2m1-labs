@@ -1,1 +1,1 @@
-JBoss EAP Containerization demo 
+JBoss EAP Containerization
